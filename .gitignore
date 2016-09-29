@@ -1,0 +1,4 @@
+*.pid
+output
+__pycache__
+virtualenv
