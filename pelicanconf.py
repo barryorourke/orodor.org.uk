@@ -22,6 +22,10 @@ DEFAULT_LANG = 'en'
 THEME = '../Flex'
 SUMMARY_MAX_LENGTH = None
 
+STATIC_PATHS = ['images', 'css']
+EXTRA_PATH_METADATA = {'css/orodor.css': {'path': 'css/orodor.css'}}
+CUSTOM_CSS = 'css/orodor.css'
+
 # social links
 SOCIAL = (
     ('envelope-o', 'mailto://barry@orodor.org.uk'),
@@ -35,3 +39,5 @@ FEED_ATOM = "feed/atom.xml"
 
 # pagination
 DEFAULT_PAGINATION = 5
+
+
