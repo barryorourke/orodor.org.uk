@@ -60,6 +60,10 @@ PAGE_SAVE_AS    = '{slug}/index.html'
 TAG_URL         = 'tag/{slug}/'
 TAG_SAVE_AS     = 'tag/{slug}/index.html'
 
+# category urls
+CATEGORY_URL = 'tag/{slug}/'
+CATEGORY_SAVE_AS = 'tag/{slug}/index.html'
+
 # pagination
 DEFAULT_PAGINATION = 5
 

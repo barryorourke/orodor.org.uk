@@ -1,6 +1,5 @@
 Title: What is Hemiplegia?
-Tags: Hemiplegia
-Status: draft
+Category: Hemiplegia
 
 According to my medical records I have Hemiparesis, according to some people that's the same as Hemiplegia, according to others it's a less severe form. To add to that both of those can be either congenial, which means that you got it before you were two, or acquired which means you got it later. Congenial Hemi{paresis,plegia} is also classified as Cerebral Palsy, where as acquired is considered a neurological condition.
 
@@ -10,6 +9,6 @@ It appears to get more complicated the more people you involve, but at the end o
 
 Whilst true, this misses a lot of the more subtle physiological and psychological issues which seem to vary quite a lot between people who have the various forms of Cerebral Palsy, which makes sense really as the brain is a complex piece of kit and everyone of us has brain damage in different areas!
 
-Personally, I have mild right sided hemiplegia, which came about due to shortage of oxygen and some sort of fit shortly after birth, I have the spasticity described above, heightened reflexes, my right leg is a few centimetres shorter than my left, a variety of hypersensitivity issues and no doubt a few things I've yet to discover are CP related!
+Personally I have mild right sided hemiplegia, which came about due to shortage of oxygen and some sort of fit shortly after birth. I have the spasticity described above, heightened reflexes, a ton of musculoskeletal issues due to my right leg being shorter than my left, a variety of hypersensitivity issues and no doubt a few things I've yet to discover!
 
 
