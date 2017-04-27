@@ -11,8 +11,9 @@ EMAIL = 'barry@orodor.org.uk'
 SITELOGO = '/images/avatar.png'
 FAVICO =  SITEURL + 'images/favico.ico'
 
+DISABLE_URL_HASH = True
 ROBOTS = 'index, follow'
-COPYRIGHT_YEAR = '2016'
+COPYRIGHT_YEAR = '2016 - 2017'
 
 OG_LOCALE = 'en_GB'
 TIMEZONE = 'Europe/London'
@@ -59,6 +60,10 @@ PAGE_SAVE_AS    = '{slug}/index.html'
 # tag urls
 TAG_URL         = 'tag/{slug}/'
 TAG_SAVE_AS     = 'tag/{slug}/index.html'
+
+# category urls
+CATEGORY_URL    = 'tag/{slug}/'
+CATEGORY_SAVE_AS= 'tag/{slug}/index.html'
 
 # pagination
 DEFAULT_PAGINATION = 5
