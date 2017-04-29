@@ -22,7 +22,7 @@ DEFAULT_DATE = 'fs'
 DEFAULT_LANG = 'en'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 
-THEME = '../Flex'
+THEME = './Flex'
 TYPOGRIFY = True
 SUMMARY_MAX_LENGTH = None
 STATIC_PATHS = ['images', 'css']
@@ -74,7 +74,7 @@ PAGINATION_PATTERNS = (
     (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
 )
 
-PLUGIN_PATHS = ['../pelican-plugins']
+PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = ['sitemap']
 
 # sitemap configuration
