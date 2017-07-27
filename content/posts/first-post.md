@@ -1,5 +1,6 @@
 Title: First Post
 Category: Meta
+Tags: Testing, Again
 
 Once again I find the urge to write, the need to share my experiences as an adult with Cerebral Palsy with an internet almost void of such subject matter.
 
