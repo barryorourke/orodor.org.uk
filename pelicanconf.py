@@ -3,7 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = "Barry O'Rourke"
-SITEURL = 'http://localhost:8000'
+#SITEURL = 'http://localhost:8000'
+SITEURL = 'http://192.168.1.132:8000'
 SITENAME = 'orodor.org.uk'
 SITETITLE = AUTHOR
 SITESUBTITLE ='fat dad, sysadmin and developer with mild hemiplegia.'
