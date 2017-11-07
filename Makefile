@@ -15,7 +15,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=maximus.orodor.org.uk
 SSH_PORT=22
 SSH_USER=barry
-SSH_TARGET_DIR=/srv/http/orodor.org.uk
+SSH_TARGET_DIR=/disk/data/websites/orodor.org.uk
 
 S3_BUCKET=my_s3_bucket
 
